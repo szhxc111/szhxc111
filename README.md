@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @szhxc111
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+szhxc111/szhxc111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+   各位好， 我叫何修池， 英文名： thomashe， 是做嵌入式开BSP发开发的，偏重于LINUX底层及中间层的开发； 对 QT, SDL, DRM， AI 的 开发也很感兴趣，现在正在学习QT QML的开发。 我的常用邮件是103631643@qq.com.
+   
+   谢谢。
